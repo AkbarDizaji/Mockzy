@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mockzy", "Mockzy\Mockzy.csproj", "{78400569-50E9-4C18-A4FF-22D1EF2979B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mockzy", "Mockzy\Mockzy.csproj", "{78400569-50E9-4C18-A4FF-22D1EF2979B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mockzy.Tests", "Mockzy.Tests\Mockzy.Tests.csproj", "{1814B3D7-5356-44C6-8951-2539F52FCF0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{78400569-50E9-4C18-A4FF-22D1EF2979B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78400569-50E9-4C18-A4FF-22D1EF2979B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78400569-50E9-4C18-A4FF-22D1EF2979B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1814B3D7-5356-44C6-8951-2539F52FCF0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1814B3D7-5356-44C6-8951-2539F52FCF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1814B3D7-5356-44C6-8951-2539F52FCF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1814B3D7-5356-44C6-8951-2539F52FCF0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
